@@ -1,5 +1,5 @@
 ---
-title: "Conference Proceeding talk 3 on Relevant Topic in Your Field"
+title: "Rational adversaries: On new threat model for Multi-party computations"
 collection: talks
 type: "Talk"
 permalink: /talks/iitm
