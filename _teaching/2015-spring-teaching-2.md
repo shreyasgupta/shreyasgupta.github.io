@@ -1,20 +1,20 @@
 ---
-title: "Teaching experience 2"
+title: "Introduction to Quantum Computation"
 collection: teaching
-type: "Department elective"
-permalink: /teaching/2015-spring-teaching-1
-venue: "CSA IISc"
+type: "Informal Course for grad students"
+permalink: /teaching/2025-spring-qc
+venue: "CSA, IISc"
 date: 2026-01-01
 location: "CSA"
 ---
 
-Theoretical Foundations of Cryptography
+*Description: Planned this course from scratch to include basic linear algebra, the axioms of quantum computation, quantum gates and basic quantum algorithms, CHSH games, etc.
 
-Heading 1
-======
+#Heading 1
+#======
 
-Heading 2
-======
+#Heading 2
+#======
 
-Heading 3
-======
+#Heading 3
+#======
