@@ -1,14 +1,14 @@
 ---
 title: "Teaching experience 2"
 collection: teaching
-type: "Workshop"
+type: "Department elective"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "CSA IISc"
+date: 2026-01-01
+location: "CSA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Theoretical Foundations of Cryptography
 
 Heading 1
 ======
