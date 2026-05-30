@@ -2,7 +2,7 @@
 title: "Secure Vickrey Auctions with Rational Parties"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/spa
 excerpt: 'This paper is has a rational security model that assumes no honest parties'
 date: 2024-12-09
 venue: 'CCS 24: Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security'
