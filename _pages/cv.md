@@ -28,7 +28,7 @@ Work experience
   * Computer Vision: Single camera human detector drone to track and record attributes like gps location, height, etc
   * Supervisor: Professor Hub
 
-* \May 2018 - July 2018: Single sensor detector, locator and tracker for drone, Myelin Innovation, Greater Noida, Uttar Pradesh
+* May 2018 - July 2018: Single sensor detector, locator and tracker for drone, Myelin Innovation, Greater Noida, Uttar Pradesh
   *  Detect humans in a video feed
   * find real world 3d coordinates of objects detected using single camera sensor instead of stereo sensor
   * track(real time gps coordinates, with single sensor) specified object specified by input
