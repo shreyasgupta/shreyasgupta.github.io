@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+===
 * Ph.D in Computer Science, Indian Institute of Science, 2025
 * M.Tech. in Computer Science, Indian Statistical Institute, 2019
 * M.Sc. in Physics, Indian Institute of Science, 2016
