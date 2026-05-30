@@ -8,7 +8,6 @@ date: 2026-01-01
 location: "CSA"
 ---
 
-*Description: Planned this course from scratch to include basic linear algebra, the axioms of quantum computation, quantum gates and basic quantum algorithms, CHSH games, etc.
 
 #Heading 1
 #======
@@ -18,3 +17,4 @@ location: "CSA"
 
 #Heading 3
 #======
+*Description: Planned this course from scratch to include basic linear algebra, the axioms of quantum computation, quantum gates and basic quantum algorithms, CHSH games, etc.
