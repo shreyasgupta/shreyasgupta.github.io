@@ -28,10 +28,58 @@ Work experience
   * Computer Vision: Single camera human detector drone to track and record attributes like gps location, height, etc
   * Supervisor: Professor Hub
 
-* Summer 2013: Research Project
-  * IUAC
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* \May 2018 - July 2018: Single sensor detector, locator and tracker for drone, Myelin Innovation, Greater Noida, Uttar Pradesh
+  *  Detect humans in a video feed
+  * find real world 3d coordinates of objects detected using single camera sensor instead of stereo sensor
+  * track(real time gps coordinates, with single sensor) specified object specified by input
+\end{tightitemize}
+
+* May 2018 - July 2018: Physics engine to calculate magnetic field of a circuit, Myelin Innovation, Greater Noida, Uttar Pradesh
+  * Built a physics engine to find in-volume magnetic field due to a circuit
+  * Used numerical techniques to find the general integral
+  * used this to measure precise background magnetic field on the drone
+
+ * July 2018 - April 2019: Master's thesis, Applied Statistics Unit, ISI
+  * Quantum algorithms and cryptography
+
+* Sept 2016 – April 2017: Differential Geometry, Department of Mathematics, IISc
+  * Prof Vamsi Pritham Pingali
+  * Studied differential geometry and connections with lie groups.
+
+* Jun 2015 – May 2016: Master's thesis, Center for High Energy Physics, IISc}
+  * Prof Sachindeo Vaidya, CHEP, IISc
+  * Dirac monopoles, their dynamical symmetries, and other properties
+  * monopoles in non abelian gauge theories, multi-monopole configurations
+  * Supersymmetry, extensions of Poincar\'{e} group%, Haag–Lopuszanski–Sohnius theorem
+
+* Aug 2015 – Dec 2015: Geometry of Dimer Models, Department of Mathematics, IISc}
+  * Prof Arvind Ayyer, Math, IISc
+  * Studied about perfect matchings or dimer configurations of a given graph and when do they exist.
+  *Kasteleyn theorem and partition function of dimer configurations.
+
+* Aug 2014 – May 2015: Bachelor's thesis, Center for High Energy Physics, IISc
+  * Prof Chethan Krishnan, CHEP, IISc, Aug 2014-May2015
+  * studied the review "Monopoles, Instantons and Confinement"% by Gerard 't Hooft
+  * Quark confinement, Dual superconductor model%, Dual Meissner effect, chiral fermions in solitonic background
+
+* June 2014 – Aug 2014: Inflationary Cosmology, Center for High Energy Physics, IISc
+  * Prof Chethan Krishnan, CHEP, IISc, June 2014-Aug 2014
+  * Studied the so called "Big Bang Puzzels", their solutions using inflation and the single scalar field Slow-Roll inflation model.
+  * Linear cosmological perturbation theory
+  * Studies the Scalar field Slow-Roll inflation model for inflation.
+  * All code was reviewed, perfected, and pushed to production.
+
+* May 2013 – June 2013: Neutrons and $\gamma$ detection, Inter University Accelerator Centre, New Delhi, INDIA
+  * Dr. P. Sugathan, IUAC, May 2013-Jun 2013
+  * Worked in National Array of Neutron Detectors.
+  * Detected neutrons and $\gamma$ rays using liquid organic scintillators, distinguished using Pulse shape discrimination.
+  * Used Nuclear Instrument Modules (NIM) for signal processing and CAMAC system and Linux Advanced Multi-Parameter System (LAMPS) for data acquisition.
+
+* May 2012 – June 2012: Switched Mode Power Supply, Centre For Electronics Design And Technology
+  * Prof M. K. Gunasekaran, CEDT, IISc, May 2012- June 2012
+  * Studied about SMPS and its difference from conventional power sources
+  * Analyzed different approaches for making a Switched-Mode Power Supply (SMPS) using Pulse width modulator(TL494)
+
   
 Skills
 ======
