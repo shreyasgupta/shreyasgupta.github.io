@@ -8,10 +8,11 @@ date: 2014-08-01
 location: "CSA"
 ---
 
-Quantum Computing and Cryptography
 
 Heading 1
 ======
+Quantum Computing and Cryptography
+
 
 Heading 2
 ======
