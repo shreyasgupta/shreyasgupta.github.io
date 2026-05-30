@@ -1,7 +1,7 @@
 ---
 title: "On Bisimulation in Modal Logics for Games on Graphs: An Algorithmic Study"
 collection: publications
-category: book
+category: books
 permalink: /publication/bisim-chap
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2026-04-01
