@@ -103,6 +103,11 @@ Talks
   
 Teaching
 ======
+* Blockchain basics
+  * delivered lectures at National Payments Corporation of India (NPCI)
+  * Comprised of ~50 people in practitioners
+  * covered overview of blockchain from a cryptographic perspective, consensus (Classical and Blockchain) algorithms, applications of Zero-knowledge proofs in Blockchain protocols, identity management on Blockchain, Zero-knowledge for identity management
+  
 * Theoretical Foundations of Cryptography
   * comprised of ~20 students
   * overed some fairly advanced topics like Naor-Yung CCA encryption scheme which involves zero-knowledge proofs and seemingly unintuitive components that one might initially think are needless
