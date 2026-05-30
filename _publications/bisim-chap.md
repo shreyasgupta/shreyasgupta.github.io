@@ -3,7 +3,7 @@ title: "On Bisimulation in Modal Logics for Games on Graphs: An Algorithmic Stud
 collection: publications
 category: books
 permalink: /publication/bisim-chap
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'This chapter is about algorithms and computational complexity of bisimulation for different variants of Modal Logics'
 date: 2026-04-01
 venue: 'Graph Games and Logic Design: Recent Developments and Further Directions'
 bookurl: 'https://link.springer.com/book/10.1007/978-3-031-91361-7'
