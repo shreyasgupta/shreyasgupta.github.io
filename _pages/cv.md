@@ -109,4 +109,14 @@ Teaching
   
 Service 
 ======
-* Currently signed in to 43 different slack teams
+* Reviewed Papers in:
+  * TCC 2026
+  * ACNS 2026
+  * AsiaCCS 2026
+  * 16th Innovations in Theoretical Computer Science (ITCS 2025)
+  * Eurocrypt 2025
+  * Asiacrypt 2024
+  * 65th IEEE Symposium on Foundations of Computer Science (FOCS) 2024
+  * Crypto 2023
+  *  ITC 2022
+  *  IndoCrypt 2020
