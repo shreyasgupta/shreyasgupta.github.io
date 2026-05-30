@@ -18,18 +18,18 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Oct 2025 - Present: PostDoctoral Researcher
+  * IISc
+  * -
+  * Supervisor: 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
+* Summer 2018: Research Intern
+  * Myelin Innovations
+  * Computer Vision: Single camera human detector drone to track and record attributes like gps location, height, etc
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
+* Summer 2013: Research Project
+  * IUAC
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
