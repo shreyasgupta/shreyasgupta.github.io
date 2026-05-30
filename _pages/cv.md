@@ -81,14 +81,13 @@ Work experience
   * Analyzed different approaches for making a Switched-Mode Power Supply (SMPS) using Pulse width modulator(TL494)
 
   
-Skills
+Awards and leadership
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2011-2016: Recepient of [KVPY](http://www.kvpy.org.in/main/) scholarship
+* 2015: Rank 16 in CSIR-National Eligibility Test for Junior Research  Fellowship
+* 2015: Secured All India Rank 17 in JEST
+* 2014: Physics Coordinator in Pravega 2014, IISc, Institue fest to promote research in Science and Technology
+* 2013: Among National Top 25 in [NGPE](http://www.iapt.org.in/index.php/exams/nse/ngpe.html) conducted by [IAPT](http://www.iapt.org.in/index.php/exams/nse/ngpe.html)
 
 Publications
 ======
@@ -108,6 +107,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service 
 ======
 * Currently signed in to 43 different slack teams
