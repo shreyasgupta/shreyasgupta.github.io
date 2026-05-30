@@ -7,8 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Theoretical Foundations of Cryptography
-=====
+###### Theoretical Foundations of Cryptography
 * comprised of ~20 students
 * overed some fairly advanced topics like Naor-Yung CCA encryption scheme which involves zero-knowledge proofs and seemingly unintuitive components that one might initially think are needless
 
