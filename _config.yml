@@ -23,8 +23,8 @@ repository               : "shreyasgupta/shreyasgupta.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "webpic.png"
-  name             : "Shreyas"
+  avatar           : "webpic1.png"
+  name             : "Shreyas Gupta"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher"
   location         : "Bengaluru"
