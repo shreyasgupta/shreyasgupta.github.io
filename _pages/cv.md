@@ -29,7 +29,7 @@ Work experience
   * Supervisor: Professor Hub
 
 * May 2018 - July 2018: Single sensor detector, locator and tracker for drone, Myelin Innovation, Greater Noida, Uttar Pradesh
-  *  Detect humans in a video feed
+  * Detect humans in a video feed
   * find real world 3d coordinates of objects detected using single camera sensor instead of stereo sensor
   * track(real time gps coordinates, with single sensor) specified object specified by input
 \end{tightitemize}
@@ -49,7 +49,7 @@ Work experience
 * Jun 2015 – May 2016: Master's thesis, Center for High Energy Physics, IISc}
   * Prof Sachindeo Vaidya, CHEP, IISc
   * Dirac monopoles, their dynamical symmetries, and other properties
-  * monopoles in non abelian gauge theories, multi-monopole configurations
+  * Monopoles in non abelian gauge theories, multi-monopole configurations
   * Supersymmetry, extensions of Poincar\'{e} group%, Haag–Lopuszanski–Sohnius theorem
 
 * Aug 2015 – Dec 2015: Geometry of Dimer Models, Department of Mathematics, IISc}
@@ -59,7 +59,7 @@ Work experience
 
 * Aug 2014 – May 2015: Bachelor's thesis, Center for High Energy Physics, IISc
   * Prof Chethan Krishnan, CHEP, IISc, Aug 2014-May2015
-  * studied the review "Monopoles, Instantons and Confinement"% by Gerard 't Hooft
+  * Studied the review "Monopoles, Instantons and Confinement"% by Gerard 't Hooft
   * Quark confinement, Dual superconductor model%, Dual Meissner effect, chiral fermions in solitonic background
 
 * June 2014 – Aug 2014: Inflationary Cosmology, Center for High Energy Physics, IISc
@@ -104,28 +104,28 @@ Talks
 Teaching
 ======
 * Blockchain basics
-  * delivered lectures at National Payments Corporation of India (NPCI)
+  * Delivered lectures at National Payments Corporation of India (NPCI)
   * Comprised of ~50 people in practitioners
-  * covered overview of blockchain from a cryptographic perspective, consensus (Classical and Blockchain) algorithms, applications of Zero-knowledge proofs in Blockchain protocols, identity management on Blockchain, Zero-knowledge for identity management
+  * Covered overview of blockchain from a cryptographic perspective, consensus (Classical and Blockchain) algorithms, applications of Zero-knowledge proofs in Blockchain protocols, identity management on Blockchain, Zero-knowledge for identity management
   
 * Theoretical Foundations of Cryptography
-  * comprised of ~20 students
-  * overed some fairly advanced topics like Naor-Yung CCA encryption scheme which involves zero-knowledge proofs and seemingly unintuitive components that one might initially think are needless
+  * Comprised of ~20 students
+  * Overed some fairly advanced topics like Naor-Yung CCA encryption scheme which involves zero-knowledge proofs and seemingly unintuitive components that one might initially think are needless
 
 * Introduction to Quantum Computation
   * Informal course for grad students at CSA, IISc 
-  * comprised of ~15 students.
+  * Comprised of ~15 students.
   * Reference: "Quantum Computation and Quantum Information" by Isaac Chuang and Michael Nielsen
   * covered basic topics including basic linear algebra, the axioms of quantum computation, quantum gates and basic quantum algorithms, CHSH games, etc
 
 * Hash Functions and applications
   * Taught at a Faculty Development program at CDS, IISc
-  * comprised of ~50 attendees
-  *  The interaction with the attendees helped understand the real challenges faced while teaching.
+  * Comprised of ~50 attendees
+  * The interaction with the attendees helped understand the real challenges faced while teaching.
 
 * Introduction to algorithms and programming
   * Teaching assistant for UG students at IISc
-  * comprised of ~120 students
+  * Comprised of ~120 students
   
 Service 
 ======
@@ -138,5 +138,5 @@ Service
   * Asiacrypt 2024
   * 65th IEEE Symposium on Foundations of Computer Science (FOCS) 2024
   * Crypto 2023
-  *  ITC 2022
-  *  IndoCrypt 2020
+  * ITC 2022
+  * IndoCrypt 2020
