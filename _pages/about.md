@@ -23,6 +23,8 @@ I enjoy formalizing intuitive, vague, or seemingly wild ideas into precise mathe
 
 I am currently on the academic job market and welcome inquiries regarding faculty, research, and postdoctoral opportunities.-->
 
+<!--My research interests lie broadly in cryptography and theoretical computer science. I am particularly interested in the foundations of secure computation, the role of computational assumptions in cryptography, and the implications of quantum computation for cryptographic security. More generally, I enjoy developing mathematical frameworks that clarify and formalize cryptographic phenomena.-->
+
 I am currently a postdoctoral researcher at the CSA department at IISc, where I also completed my PhD under the supervision of Prof. Bhavana Kanukurthi. Before that, I was a Master's student in Computer Science at ISI Kolkata, and even before that I studied Physics at IISc.
 
 My research interests lie broadly in cryptography and related areas of theoretical computer science. Lately, I have been especially interested in quantum aspects of computation and cryptography, including quantum algorithms and quantum cryptographic protocols.
