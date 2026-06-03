@@ -27,6 +27,10 @@ I am currently a postdoctoral researcher at the CSA department at IISc, where I 
 
 My research interests lie broadly in cryptography and related areas of theoretical computer science. Lately, I have been especially interested in quantum aspects of computation and cryptography, including quantum algorithms and quantum cryptographic protocols.
 
-I enjoy formalizing vague and wild ideas into precise mathematical statements. If you think I might be able to help with a problem, or if our interests overlap, feel free to get in touch.
+I enjoy formalizing vague and wild ideas into precise mathematical statements. In the process, I like taking ideas that sound unreasonable and turning them into theorems. Many research questions begin as vague intuitions. I enjoy sharpening them into precise mathematical statements and understanding what they reveal about computation, security, and information. If you think I might be able to help with a problem, or if our interests overlap, feel free to get in touch.
+
+I enjoy chasing questions that initially sound impossible, vague, or ill-defined. Research, for me, is the process of finding the right definitions that make such questions meaningful—and occasionally solvable. I am fascinated by the gap between intuition and formal reasoning. Much of my research revolves around turning informal security notions, computational assumptions, and cryptographic folklore into precise mathematical statements that can be rigorously analyzed. I enjoy discovering the right abstraction for a problem. Often, once the abstraction is found, the solution becomes almost inevitable. I like proofs that explain, definitions that clarify, and assumptions that are no stronger than necessary.
+
+My path into cryptography began with a background in physics. I am particularly drawn to questions at the interface of information, computation, and the physical world, especially those arising in quantum cryptography. Having started in physics, I am naturally drawn to questions where information and the laws of computation interact. Quantum computation forces us to rethink many assumptions that modern cryptography takes for granted. I find these shifts particularly exciting.
 
 I am currently on the job market and would be happy to hear about faculty, postdoctoral, or research opportunities.
