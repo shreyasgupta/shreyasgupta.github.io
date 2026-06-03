@@ -41,3 +41,17 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* ===== Avatar switching ===== */
+
+.avatar-dark {
+    display: none;
+}
+
+html[data-theme="dark"] .avatar-light {
+    display: none;
+}
+
+html[data-theme="dark"] .avatar-dark {
+    display: block;
+}
