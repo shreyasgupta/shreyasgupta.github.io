@@ -44,14 +44,14 @@
 
 /* ===== Avatar switching ===== */
 
-.avatar-dark {
+.author-avatar-dark {
     display: none;
 }
 
-html[data-theme="dark"] .avatar-light {
+html[data-theme="dark"] .author-avatar-light {
     display: none;
 }
 
-html[data-theme="dark"] .avatar-dark {
+html[data-theme="dark"] .author-avatar-dark {
     display: block;
 }
