@@ -44,11 +44,15 @@
 
 /* ====Remove Footer==== */
 .page__footer {
-    display: none;
+    display: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    border: 0 !important;
 }
 
-body {
-    padding-bottom: 0;
+.page__footer-follow,
+.page__footer-copyright {
+    display: none !important;
 }
 /* ===== Avatar switching ===== */
 
