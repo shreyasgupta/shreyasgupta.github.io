@@ -26,9 +26,14 @@ I am currently on the academic job market and welcome inquiries regarding facult
 
 <!--My research interests lie broadly in cryptography and theoretical computer science. I am particularly interested in the foundations of secure computation, the role of computational assumptions in cryptography, and the implications of quantum computation for cryptographic security. More generally, I enjoy developing mathematical frameworks that clarify and formalize cryptographic phenomena.-->
 
-I am currently a postdoctoral researcher at the CSA department at IISc, where I also completed my PhD under the supervision of [Prof. Bhavana Kanukurthi](https://www.csa.iisc.ac.in/~bhavana/). Before that, I was a Master's student in Computer Science at ISI Kolkata, and even before that I studied Physics at IISc.
 
-My research interests lie broadly in cryptography and related areas of theoretical computer science. Lately, I have been especially interested in quantum aspects of computation and cryptography, including quantum algorithms and quantum cryptographic protocols.
+I am a postdoctoral researcher in the Department of Computer Science and Automation at IISc. My research interests lie broadly in cryptography and related areas of theoretical computer science. Lately, I have been especially interested in quantum aspects of computation and cryptography, including quantum algorithms and quantum cryptographic protocols.
+
+
+<!--I am currently a postdoctoral researcher at the CSA department at IISc, where -->
+I completed my doctorate from IISc, under the supervision of [Prof. Bhavana Kanukurthi](https://www.csa.iisc.ac.in/~bhavana/). Before that, I was a Master's student in Computer Science at ISI Kolkata, and even before that I studied Physics at IISc.
+<!--
+My research interests lie broadly in cryptography and related areas of theoretical computer science. Lately, I have been especially interested in quantum aspects of computation and cryptography, including quantum algorithms and quantum cryptographic protocols.-->
 
 I enjoy formalizing vague and wild ideas into precise mathematical statements. In the process, I like taking ideas that sound unreasonable and turning them into theorems. Many research questions begin as vague intuitions. I enjoy sharpening them into precise mathematical statements and understanding what they reveal about computation, security, and information. If you think I might be able to help with a problem, or if our interests overlap, feel free to get in touch.
 
