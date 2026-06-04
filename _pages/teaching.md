@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Teaching | Shreyas Gupta"
 permalink: /teaching/
 author_profile: true
 ---
