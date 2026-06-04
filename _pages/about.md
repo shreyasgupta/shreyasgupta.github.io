@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Shreyas Gupta | Bio"
 author_profile: true
 redirect_from: 
   - /about/
