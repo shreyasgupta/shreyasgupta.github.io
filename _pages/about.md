@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Shreyas Gupta | Postdoctoral Researcher in Cryptography"
-excerpt: "Postdoctoral researcher at IISc. Research interests: cryptography, theoretical computer science, quantum computation, and quantum cryptography."
+excerpt: "Postdoctoral researcher at IISc. Research interests: cryptography, theoretical computer science, quantum computation, quantum cryptography, and formal logic."
 author_profile: true
 redirect_from: 
   - /about/
