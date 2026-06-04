@@ -42,8 +42,13 @@
     "vendor/font-awesome/brands"
 ;
 
+/* ====Remove Footer==== */
 .page__footer {
     display: none;
+}
+
+body {
+    padding-bottom: 0;
 }
 /* ===== Avatar switching ===== */
 
