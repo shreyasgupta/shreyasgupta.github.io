@@ -54,6 +54,16 @@
 .page__footer-copyright {
     display: none !important;
 }
+
+/* ==== Remove ProfilePic Border Box ====*/
+
+.author__avatar,
+.author__avatar img {
+  border: none !important;
+  box-shadow: none !important;
+  outline: none !important;
+}
+
 /* ===== Avatar switching ===== */
 
 author-avatar-light,
