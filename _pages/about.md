@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shreyas Gupta | Bio"
+title: "Shreyas Gupta | Postdoctoral Researcher in Cryptography"
 author_profile: true
 redirect_from: 
   - /about/
