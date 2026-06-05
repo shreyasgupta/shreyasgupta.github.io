@@ -51,6 +51,20 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 </script>
 
+<!-- Defer all JS Cleanly -->
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const scripts = document.querySelectorAll("script[src]");
+  scripts.forEach(s => {
+    if (!s.defer) {
+      s.defer = true;
+    }
+  });
+});
+</script>
+
+
 
 <!-- Favicon -->
 <!--<link rel="icon" type="image/png" href="{{ '/images/profile-light.png' | relative_url }}">-->
