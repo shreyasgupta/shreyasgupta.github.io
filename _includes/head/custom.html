@@ -3,25 +3,18 @@
 
 <!-- start custom head snippets -->
 
-
-<link rel="preload" href="{{ base_path }}/assets/css/main.css" as="style" onload="this.rel='stylesheet'">
+<!-- ✅ Async load main CSS -->
+<link rel="preload" href="{{ base_path }}/assets/css/main.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript>
   <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
 </noscript>
 
+<!-- ✅ Preload LCP image (profile pic) -->
+<link rel="preload" href="/images/profile_light.webp" as="image">
+
+<!-- ✅ Critical CSS -->
 <style>
-link[rel="stylesheet"][href*="main.css"] {
-  display: none;
-}
-</style>
-
-<script defer src="{{ base_path }}/assets/js/main.min.js"></script>
-
-
-
-<!-- Academicons -->
-<link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/mage -->
-<link rel="preload" href="/images/profile_light.webp" as="imagey {
+body {
   margin: 0;
   font-family: system-ui, -apple-system, BlinkMacSystemFont,
                "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
@@ -40,13 +33,14 @@ link[rel="stylesheet"][href*="main.css"] {
   display: block;
 }
 
+/* Prevent layout shift */
 img {
   max-width: 100%;
   height: auto;
 }
 </style>
 
-<!-- ✅ Lazy-load NON-critical images only -->
+<!-- ✅ Lazy load non-avatar images -->
 <script>
 document.addEventListener("DOMContentLoaded", function() {
   document.querySelectorAll("img").forEach(function(img) {
@@ -58,6 +52,9 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 </script>
 
+<!-- ✅ Load theme JS cleanly -->
+<script defer src="{{ base_path }}/assets/js/main.min.js"></script>
+
 <!-- ✅ Meta -->
 <meta name="theme-color" content="#000000">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -67,7 +64,3 @@ document.addEventListener("DOMContentLoaded", function() {
 <link rel="icon" type="image/svg+xml" href="{{ base_path }}/images/favicon.svg"/>
 <link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-32x32.png" sizes="32x32"/>
 <link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-192x192.png" sizes="192x192"/>
-<link rel="manifest" href="{{ base_path }}/images/manifest.json"/>
-<link rel="icon" href="/images/favicon.ico"/>
-
-<!-- end custom head snippets -->
