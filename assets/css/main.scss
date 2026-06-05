@@ -89,7 +89,6 @@ html[data-theme="dark"] .author-avatar-dark {
     text-justify: inter-word;
 }
 
-.page {
-    width: calc(100% - 300px);
-    padding-right: 2rem;
+.page__content {
+    max-width: 1000px;
 }
