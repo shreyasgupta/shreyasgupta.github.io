@@ -14,7 +14,6 @@ redirect_from:
 {: .notice--warning}
 
 
-
 <!--I am currently postdoctoral researcher at CSA, IISc. I completed my PhD under supervision of [Prof. Bhavana Kanukurthi](https://www.csa.iisc.ac.in/~bhavana/). Prior to this I was a masters student in computer science at ISI, Kolkata. Even before that I did my undergrad in physics at IISc.
 
 /*My research interests are in cryptography and related fields. Recently, I am very much interested in Quantum aspects of it including Quantum computation and Quantum Cryptography. 
@@ -35,8 +34,6 @@ I am currently on the academic job market and welcome inquiries regarding facult
 
 ## Hi!
 I am a postdoctoral researcher at CSA, IISc. My research interests lie broadly in cryptography and related areas of theoretical computer science. Lately, I have been especially interested in quantum aspects of computation and cryptography, including quantum algorithms and quantum cryptographic protocols.
-
-
 <!--I am currently a postdoctoral researcher at the CSA department at IISc, where -->
 I completed my doctorate from IISc, under the supervision of [Prof. Bhavana Kanukurthi](https://www.csa.iisc.ac.in/~bhavana/). Before that, I was a Master's student at ISI, Kolkata, and even before that I studied Physics at IISc.
 <!--
