@@ -89,10 +89,10 @@ html[data-theme="dark"] .author-avatar-dark {
     text-justify: inter-word;
 }
 
-/*.page__content {
-    max-width: 3000px;
-}*/
-.page {
+.page__content {
+    max-width: 1200px;
+}
+/*.page {
     width: calc(100% - 240px);
     padding-right: 1rem;
-}
+}*/
