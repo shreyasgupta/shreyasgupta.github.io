@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-**I am currently on the job market and would be happy to hear about faculty, postdoctoral, or research opportunities.**
+I am currently on the job market and would be happy to hear about faculty, postdoctoral, or research opportunities.
 {: .notice--warning}
 
 
