@@ -82,3 +82,14 @@ html[data-theme="dark"] .author-avatar-light {
 html[data-theme="dark"] .author-avatar-dark {
     display: block;
 }
+
+/* ==== Justify text ==== */
+.page__content p {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.page {
+    width: calc(100% - 280px);
+    padding-right: 2rem;
+}
