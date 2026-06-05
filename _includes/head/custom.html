@@ -5,8 +5,17 @@
 <!-- Support for Academicons -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 
-<!-- Lazy load all images -->
+<!-- Use System Fonts -->
 
+<style>
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont,
+               "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+</style>
+
+
+<!-- Lazy load all images -->
 <script>
 document.addEventListener("DOMContentLoaded", function() {
   document.querySelectorAll("img").forEach(function(img) {
@@ -19,7 +28,6 @@ document.addEventListener("DOMContentLoaded", function() {
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
 <!-- Defer JavaScripts -->
-
 <script>
 document.addEventListener("DOMContentLoaded", function() {
   const scripts = document.querySelectorAll("script[src]");
