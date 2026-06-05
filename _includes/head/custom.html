@@ -3,11 +3,16 @@
 
 <!-- start custom head snippets -->
 
-<!-- Preload only the LCP avatar image -->
-<link rel="preload" href="{{ '/images/profile_light.webp' | relative_url }}" as="image          "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+<!-- Academicons -->
+<!--<link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/mage -->
+<link rel="preload" href="/images/profile_light.webp" as="imagey {
+  margin: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont,
+               "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  background-color: #fff;
+  font-weight: 400;
 }
 
-/* Reserve avatar space to reduce layout shift */
 .author__avatar {
   width: 200px;
   min-height: 300px;
@@ -19,24 +24,34 @@
   display: block;
 }
 
-/* General image stability */
 img {
   max-width: 100%;
   height: auto;
 }
 </style>
 
+<!-- ✅ Lazy-load NON-critical images only -->
 <script>
 document.addEventListener("DOMContentLoaded", function() {
   document.querySelectorAll("img").forEach(function(img) {
-    if (!img.closest(".author__avatar")) {
+    const isAvatar = img.closest(".author__avatar");
+    if (!isAvatar) {
       img.setAttribute("loading", "lazy");
     }
   });
 });
 </script>
 
+<!-- ✅ Meta -->
 <meta name="theme-color" content="#000000">
-<link rel="icon" href="{{ '/images/favicon.ico' | relative_url }}">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- ✅ Favicons -->
+<link rel="apple-touch-icon" sizes="180x180" href="{{ base_path }}/images/apple-touch-icon-180x180.png"/>
+<link rel="icon" type="image/svg+xml" href="{{ base_path }}/images/favicon.svg"/>
+<link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-32x32.png" sizes="32x32"/>
+<link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-192x192.png" sizes="192x192"/>
+<link rel="manifest" href="{{ base_path }}/images/manifest.json"/>
+<link rel="icon" href="/images/favicon.ico"/>
 
 <!-- end custom head snippets -->
