@@ -9,6 +9,7 @@ redirect_from:
   - /about.html
 ---
 
+{: .notice--warning}
 ### <span style="color:orange">I am currently on the job market and would be happy to hear about faculty, postdoctoral, or research opportunities.</span>
 
 
