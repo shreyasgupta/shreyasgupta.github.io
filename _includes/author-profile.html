@@ -11,14 +11,14 @@
     	<img src="{{ author.avatar }}" alt="{{ author.name }}"  fetchpriority="high" />
     {% else %}
     <img
-        src="{{ '/images/profile-light.png' | prepend: base_path }}"
+        src="{{ '/images/profile-light.webp' | prepend: base_path }}"
         class="author-avatar-light"
         alt="{{ author.name }}"
         fetchpriority="high"
     />
 
     <img
-        src="{{ '/images/profile-dark.png' | prepend: base_path }}"
+        src="{{ '/images/profile-dark.webp' | prepend: base_path }}"
         class="author-avatar-dark"
         alt="{{ author.name }}"
         fetchpriority="high"
