@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 <!--I am currently on the job market and would be happy to hear about faculty, postdoctoral, or research opportunities.-->
-I am currently on the academic job market and welcome inquiries regarding faculty, postdoctoral, and research opportunities.
+**I am currently on the academic job market and welcome inquiries regarding faculty, postdoctoral, and research opportunities.**
 {: .notice--warning}
 
 
