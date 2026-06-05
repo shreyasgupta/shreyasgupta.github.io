@@ -1,19 +1,12 @@
 
 {% include base_path %}
 
-<!-- start custom head snippets -->
-
-<!-- ✅ Preload LCP image -->
-<link rel="preload" href="/images/profile_light.webp" as="image">
-
-<!-- ✅ Critical layout fixes -->
-<style>
-body {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont,
-               "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+<!-- Preload avatar -->
+<link rel="preload" href="/images/profile_light.webp" as="imagem-ui, -apple-system, BlinkMacSystemFont,
+               "Segoe UI", Arial, sans-serif;
 }
 
-/* stabilize layout */
+/* Fix avatar layout */
 .author__avatar {
   width: 200px;
   min-height: 300px;
@@ -25,28 +18,9 @@ body {
   display: block;
 }
 
-img {
-  max-width: 100%;
-  height: auto;
-}
+/* Dark/light toggle */
+.avatar-dark { display: none; }
+
+html[data-theme="dark"] .avatar-light { display: none; }
+html[data-theme="dark"] .avatar-dark { display: block; }
 </style>
-
-<!-- ✅ Lazy load NON-avatar images -->
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-  document.querySelectorAll("img").forEach(function(img) {
-    if (!img.closest(".author__avatar")) {
-      img.setAttribute("loading", "lazy");
-    }
-  });
-});
-</script>
-
-<!-- ✅ Meta -->
-<meta name="theme-color" content="#000000">
-
-<!-- ✅ Favicons -->
-<link rel="icon" href="/images/favicon.ico">
-
-<!-- end custom head snippets -->
-``
