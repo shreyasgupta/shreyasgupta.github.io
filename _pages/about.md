@@ -38,7 +38,7 @@ I completed my doctorate from IISc, under the supervision of [Prof. Bhavana Kanu
 <!--
 My research interests lie broadly in cryptography and related areas of theoretical computer science. Lately, I have been especially interested in quantum aspects of computation and cryptography, including quantum algorithms and quantum cryptographic protocols.-->
 
-## I like formalizing vague and wild ideas! 
+### I like formalizing vague and wild ideas! 
 <!--Many research questions begin as vague intuitions. I enjoy sharpening them into precise mathematical statements and understanding what they reveal about computation, security, and information.-->
 Research, for me, is the process of finding the right definitions that make ill-defined questions meaningful—and occasionally solvable. <!--I am fascinated by the gap between intuition and formal reasoning. -->Much of my research revolves around turning informal security notions, computational assumptions, and cryptographic folklore into precise mathematical statements that can be reasoned with formally. Have a look at [this CCS paper](https://eprint.iacr.org/2024/1011) to see how we model intuitive notion of how people behave in real life to rational adversary in secure computation. <!--I enjoy discovering the right abstraction for a problem. -->Often, once the right abstraction is found, the solution becomes almost inevitable. I like proofs that explain, definitions that clarify, and assumptions that are no stronger than necessary. If you think I might be able to help with a problem, or if our interests overlap, lets collaborate!
 
