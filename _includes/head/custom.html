@@ -5,6 +5,15 @@
 <!-- Support for Academicons -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 
+<!-- Lazy load all images -->
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  document.querySelectorAll("img").forEach(function(img) {
+    img.setAttribute("loading", "lazy");
+  });
+});
+</script>
 
 <!-- Favicon -->
 <!--<link rel="icon" type="image/png" href="{{ '/images/profile-light.png' | relative_url }}">-->
