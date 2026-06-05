@@ -9,9 +9,9 @@ redirect_from:
   - /about.html
 ---
 
+**I am currently on the job market and would be happy to hear about faculty, postdoctoral, or research opportunities.**
 {: .notice--warning}
-<!--<span style="color:red">-->
- I am currently on the job market and would be happy to hear about faculty, postdoctoral, or research opportunities.
+
 
 
 <!--I am currently postdoctoral researcher at CSA, IISc. I completed my PhD under supervision of [Prof. Bhavana Kanukurthi](https://www.csa.iisc.ac.in/~bhavana/). Prior to this I was a masters student in computer science at ISI, Kolkata. Even before that I did my undergrad in physics at IISc.
