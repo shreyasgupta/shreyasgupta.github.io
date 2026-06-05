@@ -27,7 +27,7 @@ author:
   name             : "Shreyas Gupta"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher, IISc"
-  location         : "Bengaluru"
+  location         : #"Bengaluru"
   employer         : #"Indian Institute of Science"
   uri              : # URL
   email            : "shreyas17521@iisc.ac.in" 
