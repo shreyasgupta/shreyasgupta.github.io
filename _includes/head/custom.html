@@ -18,6 +18,20 @@ document.addEventListener("DOMContentLoaded", function() {
 <!-- Preload and optimize fitst -->
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
+<!-- Defer JavaScripts -->
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const scripts = document.querySelectorAll("script[src]");
+  scripts.forEach(s => {
+    if (!s.hasAttribute("defer")) {
+      s.setAttribute("defer", "");
+    }
+  });
+});
+</script>
+
+
 <!-- Favicon -->
 <!--<link rel="icon" type="image/png" href="{{ '/images/profile-light.png' | relative_url }}">-->
 
