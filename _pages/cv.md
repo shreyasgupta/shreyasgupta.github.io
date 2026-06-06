@@ -20,6 +20,57 @@ Education
 * M.Sc. in Physics, Indian Institute of Science, 2016
 * B.Sc. (Research) in Physics, Indian Institute of Science, 2015
 
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Talks
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
+  
+Teaching
+======
+* Blockchain basics
+  * Delivered lectures at National Payments Corporation of India (NPCI)
+  * Comprised of ~50 people in practitioners
+  * Covered overview of blockchain from a cryptographic perspective, consensus (Classical and Blockchain) algorithms, applications of Zero-knowledge proofs in Blockchain protocols, identity management on Blockchain, Zero-knowledge for identity management
+  
+* Theoretical Foundations of Cryptography
+  * Comprised of ~20 students
+  * Overed some fairly advanced topics like Naor-Yung CCA encryption scheme which involves zero-knowledge proofs and seemingly unintuitive components that one might initially think are needless
+
+* Introduction to Quantum Computation
+  * Informal course for grad students at CSA, IISc 
+  * Comprised of ~15 students.
+  * Reference: "Quantum Computation and Quantum Information" by Isaac Chuang and Michael Nielsen
+  * covered basic topics including basic linear algebra, the axioms of quantum computation, quantum gates and basic quantum algorithms, CHSH games, etc
+
+* Hash Functions and applications
+  * Taught at a Faculty Development program at CDS, IISc
+  * Comprised of ~50 attendees
+  * The interaction with the attendees helped understand the real challenges faced while teaching.
+
+* Introduction to algorithms and programming
+  * Teaching assistant for UG students at IISc
+  * Comprised of ~120 students
+  
+Service 
+======
+* Reviewed Papers in:
+  * TCC 2026
+  * ACNS 2026
+  * AsiaCCS 2026
+  * 16th Innovations in Theoretical Computer Science (ITCS 2025)
+  * Eurocrypt 2025
+  * Asiacrypt 2024
+  * 65th IEEE Symposium on Foundations of Computer Science (FOCS) 2024
+  * Crypto 2023
+  * ITC 2022
+  * IndoCrypt 2020
 Work experience
 ======
 * Oct 2025 - Present: PostDoctoral Researcher
@@ -92,55 +143,3 @@ Awards and leadership
 * 2015: Secured All India Rank 17 in JEST
 * 2014: Physics Coordinator in Pravega 2014, IISc, Institue fest to promote research in Science and Technology
 * 2013: Among National Top 25 in [NGPE](http://www.iapt.org.in/index.php/exams/nse/ngpe.html) conducted by [IAPT](http://www.iapt.org.in/index.php/exams/nse/ngpe.html)
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-* Blockchain basics
-  * Delivered lectures at National Payments Corporation of India (NPCI)
-  * Comprised of ~50 people in practitioners
-  * Covered overview of blockchain from a cryptographic perspective, consensus (Classical and Blockchain) algorithms, applications of Zero-knowledge proofs in Blockchain protocols, identity management on Blockchain, Zero-knowledge for identity management
-  
-* Theoretical Foundations of Cryptography
-  * Comprised of ~20 students
-  * Overed some fairly advanced topics like Naor-Yung CCA encryption scheme which involves zero-knowledge proofs and seemingly unintuitive components that one might initially think are needless
-
-* Introduction to Quantum Computation
-  * Informal course for grad students at CSA, IISc 
-  * Comprised of ~15 students.
-  * Reference: "Quantum Computation and Quantum Information" by Isaac Chuang and Michael Nielsen
-  * covered basic topics including basic linear algebra, the axioms of quantum computation, quantum gates and basic quantum algorithms, CHSH games, etc
-
-* Hash Functions and applications
-  * Taught at a Faculty Development program at CDS, IISc
-  * Comprised of ~50 attendees
-  * The interaction with the attendees helped understand the real challenges faced while teaching.
-
-* Introduction to algorithms and programming
-  * Teaching assistant for UG students at IISc
-  * Comprised of ~120 students
-  
-Service 
-======
-* Reviewed Papers in:
-  * TCC 2026
-  * ACNS 2026
-  * AsiaCCS 2026
-  * 16th Innovations in Theoretical Computer Science (ITCS 2025)
-  * Eurocrypt 2025
-  * Asiacrypt 2024
-  * 65th IEEE Symposium on Foundations of Computer Science (FOCS) 2024
-  * Crypto 2023
-  * ITC 2022
-  * IndoCrypt 2020
