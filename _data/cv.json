@@ -1,61 +1,70 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Shreyas Gupta",
+    "email": "shreyas17521@iisc.ac.in",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://shreyasgupta.github.io",
+    "summary": "Postdoctoral Researcher",
     "location": {
-      "address": "",
+      "address": "CSA, IISc",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Bangalore",
+      "countryCode": "IN",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?hl=en&user=NwF08iYAAAAJ&view_op=list_works"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0009-0008-2233-6839"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "shreyasgupta",
+        "url": "https://github.com/shreyasgupta"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Indian Institute of Science",
+      "area": "Ph.D in Cryptography",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "2025",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Indian Statistical Institute, Kolkata",
+      "area": "M.Tech. in Computer Science",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
+      "endDate": "2019",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Indian Institute of Science",
+      "area": "M.Sc. in Physics",
       "studyType": "",
       "startDate": "",
-      "endDate": "2012",
+      "endDate": "2016",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Indian Institute of Science",
+      "area": "B.Sc.(Research) in Physics",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2015",
       "gpa": null,
       "courses": []
     }
@@ -66,22 +75,22 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
+      "name": "On Bisimulation in Modal Logics for Games on Graphs: An Algorithmic Study",
+      "publisher": "Graph Games and Logic Design. Trends in Logic",
+      "releaseDate": "2026-04-01",
+      "website": "https://link.springer.com/chapter/10.1007/978-3-031-91361-7_6",
       "summary": "This paper is about the number 1. The number 2 is left for future work."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
+      "name": "Secure Fuzzy Deduplication: Definitions and Constructions",
+      "publisher": "CCSW '25: Proceedings of the 2025 Cloud Computing Security Workshop",
+      "releaseDate": "2025-11-25",
+      "website": "https://dl.acm.org/doi/10.1145/3733812.3765537",
       "summary": "This paper is about the number 2. The number 3 is left for future work."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
+      "name": "Secure Vickrey Auctions with Rational Parties",
+      "publisher": "CCS '24: Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security",
       "releaseDate": "2015-10-01",
       "website": "https://academicpages.github.io/files/paper3.pdf",
       "summary": "This paper is about the number 3. The number 4 is left for future work."
@@ -89,8 +98,8 @@
     {
       "name": "Paper Title Number 4",
       "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
+      "releaseDate": "2024-12-09",
+      "website": "https://dl.acm.org/doi/10.1145/3658644.3670311",
       "summary": "This paper is about fixing template issue #693."
     }
   ],
