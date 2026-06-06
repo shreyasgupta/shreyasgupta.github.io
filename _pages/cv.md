@@ -73,12 +73,17 @@ Service
   * IndoCrypt 2020
  
   
-Work experience
+Experience
 ======
 * Oct 2025 - Present: PostDoctoral Researcher
   * IISc
-  * -
-  * Supervisor: 
+  * Crrent work:
+    * New practical threat model for MPC -- modelling each party as rational
+    * Bridging the gap between CPA and CCA security for PKE
+    * Interoperability between permissioned blockchains
+    * Exploring Quantum cryptograhy and MicroCrypt
+    * Applying ZK proofs for LTL realizability
+    * Exploring formal system for computational security
 
 * Summer 2018: Research Intern
   * Myelin Innovations
